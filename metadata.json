@@ -1,0 +1,5 @@
+{
+  "name": "SkyRadar Pro",
+  "description": "A high-performance, responsive real-time flight tracking application using OpenSky Network data. Features a gorgeous dark-mode radar interface.",
+  "requestFramePermissions": []
+}
